@@ -10,5 +10,5 @@ public class Book {
     @Id
     private Integer bookId;
     private String bookName;
-    private Double bookPrice;;
+    private Double bookPrice;
 }
